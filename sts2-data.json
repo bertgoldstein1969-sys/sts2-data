@@ -1,0 +1,102 @@
+{
+  "patch": null,
+  "lastUpdated": "2026-02-22T23:09:05.653548",
+  "highlights": [
+    {
+      "kind": "official_blog_latest",
+      "item": {
+        "title": "",
+        "url": "http://images.ctfassets.net/5owu3y35gz1g/41xTltLVH1qo6VnTAxkT5X/2d6e2b8400d614abadd0781963d41b47/christmascard_2025_1920.png",
+        "date": null
+      }
+    },
+    {
+      "kind": "steam_top",
+      "item": {
+        "title": "2868840",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/?snr=1_7_7_151_150_1"
+      }
+    },
+    {
+      "kind": "thirdparty_top",
+      "item": {
+        "title": "Entertainment",
+        "url": "/entertainment/"
+      }
+    }
+  ],
+  "links": {
+    "official_blog": [
+      {
+        "title": "",
+        "url": "http://images.ctfassets.net/5owu3y35gz1g/41xTltLVH1qo6VnTAxkT5X/2d6e2b8400d614abadd0781963d41b47/christmascard_2025_1920.png",
+        "date": null
+      },
+      {
+        "title": "Steam Winter Sale",
+        "url": "https://store.steampowered.com/app/1145350/Hades_II/",
+        "date": null
+      },
+      {
+        "title": "Nintendo eShop",
+        "url": "https://www.nintendo.com/us/store/products/hades-ii-nintendo-switch-2-edition-switch-2/",
+        "date": null
+      },
+      {
+        "title": "Epic Games Store",
+        "url": "https://store.epicgames.com/en-US/p/hades-ii",
+        "date": null
+      },
+      {
+        "title": "",
+        "url": "http://images.ctfassets.net/5owu3y35gz1g/23wtPDwBRGSPTJF7SaavY1/ae14a96da69df25b5f15d954899273f0/vote5_1080.png",
+        "date": null
+      },
+      {
+        "title": "best-reviewed game of the year",
+        "url": "https://www.supergiantgames.com/blog/hades-ii-retail-new-merch-out-now",
+        "date": null
+      }
+    ],
+    "steam_store": [
+      {
+        "title": "2868840",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/?snr=1_7_7_151_150_1"
+      },
+      {
+        "title": "1606340",
+        "url": "https://store.steampowered.com/app/1606340/Conquest_of_Elysium_5/?snr=1_7_7_151_150_1"
+      },
+      {
+        "title": "3333700",
+        "url": "https://store.steampowered.com/app/3333700/The_Royal_Writ/?snr=1_7_7_151_150_1"
+      },
+      {
+        "title": "1668690",
+        "url": "https://store.steampowered.com/app/1668690/Alina_of_the_Arena/?snr=1_7_7_151_150_1"
+      },
+      {
+        "title": "1184820",
+        "url": "https://store.steampowered.com/app/1184820/Poker_Quest_Swords_and_Spades/?snr=1_7_7_151_150_1"
+      },
+      {
+        "title": "1600910",
+        "url": "https://store.steampowered.com/app/1600910/Demons_Mirror/?snr=1_7_7_151_150_1"
+      }
+    ],
+    "polygon_search": [
+      {
+        "title": "Entertainment",
+        "url": "/entertainment/"
+      },
+      {
+        "title": "What To Play",
+        "url": "/what-to-play/"
+      },
+      {
+        "title": "What to Watch",
+        "url": "/what-to-watch/"
+      }
+    ]
+  }
+}
