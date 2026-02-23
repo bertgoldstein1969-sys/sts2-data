@@ -1,75 +1,157 @@
 {
-  "generatedAt": "2026-02-23T01:25:30Z",
-  "snapshotDate": "2026-02-22",
+  "generatedAt": "2026-02-23T01:46:01.277800+00:00",
   "sources": [
-    {
-      "name": "Steam Store (App 2868840)",
-      "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/",
-      "priority": 1,
-      "observedAt": "2026-02-23T01:25:03.961Z"
-    },
-    {
-      "name": "Steam Community Announcements (App 2868840)",
-      "url": "https://steamcommunity.com/app/2868840/announcements/",
-      "priority": 1,
-      "observedAt": "2026-02-23T01:25:13.602Z"
-    },
-    {
-      "name": "Mega Crit official news",
-      "url": "https://www.megacrit.com/news/2026-02-19-release-date-trailer/",
-      "priority": 2,
-      "observedAt": "2026-02-23T01:25:14.022Z"
-    },
-    {
-      "name": "Reddit r/slaythespire",
-      "url": "https://www.reddit.com/r/slaythespire/comments/1r9a17i/slay_the_spire_2_early_access_trailer/",
-      "priority": 3,
-      "observedAt": "2026-02-23T01:25:14.779Z"
-    },
-    {
-      "name": "IGN (major gaming press)",
-      "url": "https://www.ign.com/articles/slay-the-spire-2-early-access-release-date-set-for-march-as-animated-trailer-reveals-4-player-co-op",
-      "priority": 4,
-      "observedAt": "2026-02-23T01:25:16.129Z"
-    }
+    "https://store.steampowered.com/feeds/news/app/2868840/",
+    "https://www.megacrit.com/news",
+    "https://www.reddit.com/r/slaythespire/new/.rss",
+    "https://www.reddit.com/search.rss?q=slay%20the%20spire%202&sort=new"
   ],
   "items": [
     {
-      "title": "Slay the Spire 2 launches in Early Access on March 5, 2026",
-      "canonicalUrl": "https://www.megacrit.com/news/2026-02-19-release-date-trailer/",
-      "source": "Mega Crit",
-      "summary": "Mega Crit confirmed the Early Access date and shared the official trailer. The post also reiterates 4-player co-op and continued content updates during Early Access.",
-      "publishedAt": "2026-02-19",
-      "observedAt": "2026-02-23T01:25:14.022Z"
+      "source": "steam_news",
+      "title": "The Neowsletter - February 2026",
+      "url": "https://store.steampowered.com/news/app/2868840/view/742666698308452991",
+      "publishedAt": "Tue, 17 Feb 2026 02:03:34 +0000",
+      "observedAt": "2026-02-23T01:46:00.637006+00:00",
+      "summary": "It's February, everyone. You know what that means... SLAY THE SPIRE 2 IS OUT NEXT MONTH!! That also means if your goal was to hit A20 on all characters before StS2's release, you're running out of time. That also also means that this Neowsl"
     },
     {
-      "title": "Steam listing shows March 2026 release window and core Early Access details",
-      "canonicalUrl": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/",
-      "source": "Steam Store",
-      "summary": "The Steam app page lists Slay the Spire 2 as coming in March 2026 and highlights Early Access scope, including planned content growth and co-op support up to 4 players.",
+      "source": "steam_news",
+      "title": "The Neowsletter - January 2026",
+      "url": "https://store.steampowered.com/news/app/2868840/view/519736513892714155",
+      "publishedAt": "Thu, 22 Jan 2026 21:30:30 +0000",
+      "observedAt": "2026-02-23T01:46:00.637632+00:00",
+      "summary": "Happy Slay the Spire 2 year, everyone! Tomorrow, January 23rd, 2026, is the 7th anniversary of Slay the Spire 's 1.0 launch! Also, in just a couple of months, it will have been 8.5~ years between the early access launches of Slay the Spire "
+    },
+    {
+      "source": "steam_news",
+      "title": "Slay the Spire 2 Releases in Early Access on March 5, 2026!",
+      "url": "https://store.steampowered.com/news/app/2868840/view/538879349212840702",
+      "publishedAt": "Thu, 19 Feb 2026 20:10:40 +0000",
+      "observedAt": "2026-02-23T01:46:00.636367+00:00",
+      "summary": "Your wait is nearly over. The Spire awakens once more on March 5, 2026 . Learn more about what Slay the Spire 2 has in store in our official Early Access trailer: https://youtu.be/PW22jwFNxU8 And if you haven’t yet, you can wishlist it here"
+    },
+    {
+      "source": "steam_news",
+      "title": "The Neowsletter - July 2025",
+      "url": "https://store.steampowered.com/news/app/2868840/view/524222987845501043",
+      "publishedAt": "Thu, 17 Jul 2025 19:59:01 +0000",
+      "observedAt": "2026-02-23T01:46:00.640597+00:00",
+      "summary": "Hi again everyone, it's time for a July update! I don't have any clever things to say in this intro, let's just get into it. This month we'll take a sneak peek at Colorless Cards ! The Cards Without Color Hey everyone, Anthony again with so"
+    },
+    {
+      "source": "steam_news",
+      "title": "The Neowsletter - October 2025",
+      "url": "https://store.steampowered.com/news/app/2868840/view/577148613051810005",
+      "publishedAt": "Thu, 16 Oct 2025 20:39:10 +0000",
+      "observedAt": "2026-02-23T01:46:00.638903+00:00",
+      "summary": "It's October, the month of tricks, treats, and... spooooky things~🦇💀 For those who missed it, we announced a delay last month. Slay the Spire 2 is coming to Early Access in March 2026. I know, I know, it's hard to wait. But speaking of spoo"
+    },
+    {
+      "source": "steam_news",
+      "title": "The Neowsletter - May 2025",
+      "url": "https://store.steampowered.com/news/app/2868840/view/806818250769826013",
+      "publishedAt": "Thu, 15 May 2025 18:35:57 +0000",
+      "observedAt": "2026-02-23T01:46:00.641837+00:00",
+      "summary": "Good day! It's the fifth month of the year and Slay the Spire 2 isn't out yet. We're quite picky about the game's quality, despite it coming to Early Access. I want other game developers to fear releasing low quality games into Early Access"
+    },
+    {
+      "source": "steam_news",
+      "title": "The Neowsletter - August 2025",
+      "url": "https://store.steampowered.com/news/app/2868840/view/669466707009470783",
+      "publishedAt": "Thu, 14 Aug 2025 23:02:45 +0000",
+      "observedAt": "2026-02-23T01:46:00.640139+00:00",
+      "summary": "Greetings! This month's issue marks the 1-year anniversary of The Neowsletter!! Thank you to everyone who has been reading along since the beginning. The Mega Crit team is still hard at work on the sequel. We're on that grindset >:( But als"
+    },
+    {
+      "source": "steam_news",
+      "title": "The Neowsletter - November 2025",
+      "url": "https://store.steampowered.com/news/app/2868840/view/590661965751255380",
+      "publishedAt": "Thu, 13 Nov 2025 21:45:42 +0000",
+      "observedAt": "2026-02-23T01:46:00.638185+00:00",
+      "summary": "Greetings, Slayers! It's November. Just a few more months until the sequel is available in Early Access. To get hyped, we've got another big content sneak peek. Last month, we properly introduced you to one of Slay the Spire 2 's new playab"
+    },
+    {
+      "source": "steam_news",
+      "title": "The Neowsletter - June 2025",
+      "url": "https://store.steampowered.com/news/app/2868840/view/550115608635638647",
+      "publishedAt": "Thu, 12 Jun 2025 19:48:56 +0000",
+      "observedAt": "2026-02-23T01:46:00.641191+00:00",
+      "summary": "Summer's here and so is a new Neowsletter! We're out enjoying the sun during the day, and killing the night... during the uhh.. night (that was a Nightreign reference). Anyways, it's true- we were not part of Summer Games Fest :( But that's"
+    },
+    {
+      "source": "steam_news",
+      "title": "The Neowsletter - September 2025",
+      "url": "https://store.steampowered.com/news/app/2868840/view/538864759138681405",
+      "publishedAt": "Thu, 11 Sep 2025 21:53:36 +0000",
+      "observedAt": "2026-02-23T01:46:00.639628+00:00",
+      "summary": "Hi everyone, it's time for the September Neowsletter. This one comes with a pretty big update right off the top, so let's dive right into it. Early Access Timeline Update After a lot of internal discussion, we've made the call to move Slay "
+    },
+    {
+      "source": "reddit_slaythespire",
+      "title": "reddit_slaythespire fetch error",
+      "url": "https://www.reddit.com/r/slaythespire/new/.rss",
       "publishedAt": null,
-      "observedAt": "2026-02-23T01:25:03.961Z"
+      "observedAt": "2026-02-23T01:46:00.735304+00:00",
+      "summary": "Scrape error: HTTP Error 403: Blocked",
+      "error": true
     },
     {
-      "title": "r/slaythespire trailer thread gained strong engagement",
-      "canonicalUrl": "https://www.reddit.com/r/slaythespire/comments/1r9a17i/slay_the_spire_2_early_access_trailer/",
-      "source": "Reddit",
-      "summary": "The subreddit thread for the Early Access trailer is highly active (1.6K+ upvotes in search snippet), indicating sustained community attention around the March 5 launch date.",
-      "publishedAt": "3 days ago",
-      "observedAt": "2026-02-23T01:25:14.779Z"
+      "source": "reddit_search",
+      "title": "reddit_search fetch error",
+      "url": "https://www.reddit.com/search.rss?q=slay%20the%20spire%202&sort=new",
+      "publishedAt": null,
+      "observedAt": "2026-02-23T01:46:00.838122+00:00",
+      "summary": "Scrape error: HTTP Error 403: Blocked",
+      "error": true
     },
     {
-      "title": "IGN coverage highlights co-op reveal and Steam blog details",
-      "canonicalUrl": "https://www.ign.com/articles/slay-the-spire-2-early-access-release-date-set-for-march-as-animated-trailer-reveals-4-player-co-op",
-      "source": "IGN",
-      "summary": "IGN reports the March 5, 2026 Early Access date and emphasizes the newly revealed 4-player co-op mode with multiplayer-specific cards and synergies.",
-      "publishedAt": "2026-02-19T21:57:00Z",
-      "observedAt": "2026-02-23T01:25:16.129Z"
+      "source": "megacrit_news",
+      "title": "Release Date Trailer",
+      "url": "https://www.megacrit.com/news/2026-02-19-release-date-trailer/",
+      "publishedAt": null,
+      "observedAt": "2026-02-23T01:46:01.275055+00:00",
+      "summary": "Official Mega Crit news page item."
+    },
+    {
+      "source": "megacrit_news",
+      "title": "Just Announced Slay The Spire 2 Copy",
+      "url": "https://www.megacrit.com/news/2024-04-15-just-announced-slay-the-spire-2-copy/",
+      "publishedAt": null,
+      "observedAt": "2026-02-23T01:46:01.275466+00:00",
+      "summary": "Official Mega Crit news page item."
+    },
+    {
+      "source": "megacrit_news",
+      "title": "Youtooz X Slay The Spire Limited Edition Figures Out Now",
+      "url": "https://www.megacrit.com/news/2024-03-12-youtooz-x-slay-the-spire-limited-edition-figures-out-now/",
+      "publishedAt": null,
+      "observedAt": "2026-02-23T01:46:01.275504+00:00",
+      "summary": "Official Mega Crit news page item."
     }
   ],
   "highlights": [
-    "Mega Crit officially set Slay the Spire 2 Early Access for March 5, 2026.",
-    "Steam store page continues to show March 2026 timing with Early Access + 4-player co-op positioning.",
-    "Community and press coverage remain focused on the date/trailer/co-op reveal; no newer official post found after Feb 19 in fetched sources."
+    {
+      "kind": "megacrit_news",
+      "item": {
+        "source": "megacrit_news",
+        "title": "Release Date Trailer",
+        "url": "https://www.megacrit.com/news/2026-02-19-release-date-trailer/",
+        "publishedAt": null,
+        "observedAt": "2026-02-23T01:46:01.275055+00:00",
+        "summary": "Official Mega Crit news page item."
+      }
+    },
+    {
+      "kind": "steam_news",
+      "item": {
+        "source": "steam_news",
+        "title": "The Neowsletter - February 2026",
+        "url": "https://store.steampowered.com/news/app/2868840/view/742666698308452991",
+        "publishedAt": "Tue, 17 Feb 2026 02:03:34 +0000",
+        "observedAt": "2026-02-23T01:46:00.637006+00:00",
+        "summary": "It's February, everyone. You know what that means... SLAY THE SPIRE 2 IS OUT NEXT MONTH!! That also means if your goal was to hit A20 on all characters before StS2's release, you're running out of time. That also also means that this Neowsl"
+      }
+    }
   ]
 }
