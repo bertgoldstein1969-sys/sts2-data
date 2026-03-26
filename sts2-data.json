@@ -9,20 +9,20 @@
   "items": [
     {
       "source": "reddit_slaythespire",
-      "title": "reddit_slaythespire fetch error",
+      "title": "r/slaythespire — fetch error",
       "url": "https://www.reddit.com/r/slaythespire/new/.rss",
       "publishedAt": null,
       "observedAt": "2026-03-26T22:00:03.509026+00:00",
-      "summary": "Scrape error: HTTP Error 403: Blocked",
+      "summary": "Scrape error: Reddit blocked access to the r/slaythespire feed (HTTP 403).",
       "error": true
     },
     {
       "source": "reddit_search",
-      "title": "reddit_search fetch error",
+      "title": "Reddit search — fetch error",
       "url": "https://www.reddit.com/search.rss?q=slay%20the%20spire%202&sort=new",
       "publishedAt": null,
       "observedAt": "2026-03-26T22:00:03.601537+00:00",
-      "summary": "Scrape error: HTTP Error 403: Blocked",
+      "summary": "Scrape error: Reddit blocked access to the search RSS (HTTP 403).",
       "error": true
     },
     {
@@ -31,7 +31,8 @@
       "url": "https://www.megacrit.com/news/2026-02-19-release-date-trailer/",
       "publishedAt": null,
       "observedAt": "2026-03-26T22:00:04.148892+00:00",
-      "summary": "Official Mega Crit news page item."
+      "summary": "Mega Crit published the official release-date trailer for Slay the Spire 2.",
+      "error": false
     },
     {
       "source": "megacrit_news",
@@ -39,7 +40,8 @@
       "url": "https://www.megacrit.com/news/2024-04-15-just-announced-slay-the-spire-2-copy/",
       "publishedAt": null,
       "observedAt": "2026-03-26T22:00:04.149029+00:00",
-      "summary": "Official Mega Crit news page item."
+      "summary": "Mega Crit's original Slay the Spire 2 announcement post.",
+      "error": false
     },
     {
       "source": "megacrit_news",
@@ -47,7 +49,8 @@
       "url": "https://www.megacrit.com/news/2024-03-12-youtooz-x-slay-the-spire-limited-edition-figures-out-now/",
       "publishedAt": null,
       "observedAt": "2026-03-26T22:00:04.149042+00:00",
-      "summary": "Official Mega Crit news page item."
+      "summary": "Mega Crit posted about the Youtooz Slay the Spire limited-edition figures release.",
+      "error": false
     }
   ],
   "highlights": [
@@ -59,7 +62,7 @@
         "url": "https://www.megacrit.com/news/2026-02-19-release-date-trailer/",
         "publishedAt": null,
         "observedAt": "2026-03-26T22:00:04.148892+00:00",
-        "summary": "Official Mega Crit news page item."
+        "summary": "Mega Crit published the official release-date trailer for Slay the Spire 2."
       }
     }
   ]
