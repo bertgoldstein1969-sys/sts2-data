@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-26T18:00:03.177852+00:00",
+  "generatedAt": "2026-03-26T22:00:04.149966+00:00",
   "sources": [
     "https://store.steampowered.com/feeds/news/app/2868840/",
     "https://www.megacrit.com/news",
@@ -8,51 +8,11 @@
   ],
   "items": [
     {
-      "source": "steam_news",
-      "title": "Slay the Spire: The Board Game - Downfall Expansion Kickstarter Now Live!",
-      "url": "https://store.steampowered.com/news/app/2868840/view/503978984819656657",
-      "publishedAt": "Tue, 24 Mar 2026 17:33:57 +0000",
-      "observedAt": "2026-03-26T18:00:02.490434+00:00",
-      "summary": "It's finally here!! The Kickstarter campaign for the Slay the Spire board game Downfall expansion is LIVE NOW! The fan-favorite community mod for Slay the Spire 1 is getting its own OFFICIAL expansion to Slay the Spire: The Board Game , all"
-    },
-    {
-      "source": "steam_news",
-      "title": "Slay the Spire 2 is out NOW in Early Access!!",
-      "url": "https://store.steampowered.com/news/app/2868840/view/519740319207522311",
-      "publishedAt": "Thu, 05 Mar 2026 17:51:30 +0000",
-      "observedAt": "2026-03-26T18:00:02.495745+00:00",
-      "summary": "The Spire has finally reawakened. Slay the Spire 2 , the long awaited sequel to the original genre-defining roguelike deckbuilder, is available now on Steam Early Access ! https://store.steampowered.com/app/2868840/Slay_the_Spire_2/ We're s"
-    },
-    {
-      "source": "steam_news",
-      "title": "The Neowsletter - March 2026",
-      "url": "https://store.steampowered.com/news/app/2868840/view/502852451136700526",
-      "publishedAt": "Fri, 13 Mar 2026 21:49:33 +0000",
-      "observedAt": "2026-03-26T18:00:02.494295+00:00",
-      "summary": "Hi everyone, Casey here! Our excellent community manager, Demi, has been in charge of the majority of Neowsletter writings for a while now but I wanted to stop by to say a few words: 🐟HOLY MACKEREL🐟! But in all seriousness, the response to "
-    },
-    {
-      "source": "steam_news",
-      "title": "Beta Patch Notes - v0.99",
-      "url": "https://store.steampowered.com/news/app/2868840/view/502852451136700758",
-      "publishedAt": "Fri, 13 Mar 2026 00:42:32 +0000",
-      "observedAt": "2026-03-26T18:00:02.495071+00:00",
-      "summary": "Hey, Slayers! Happy 1-week-since-launch day! Today's patch mostly contains a lot of bug fixes, but it also contains a few art additions and a new limit to max HP values. Heads up that this patch will at first be exclusive to the newly relea"
-    },
-    {
-      "source": "steam_news",
-      "title": "Hotfix Patch Notes - v0.98.1",
-      "url": "https://store.steampowered.com/news/app/2868840/view/519740319207522938",
-      "publishedAt": "Fri, 06 Mar 2026 00:56:25 +0000",
-      "observedAt": "2026-03-26T18:00:02.495370+00:00",
-      "summary": "Happy Slay the Spire 2 launch day everyone! We have a day 1 hotfix for various issues and softlocks that players have reported. Thank you all for your feedback! For those who don't know, you can submit feedback in-game by pressing F2 or thr"
-    },
-    {
       "source": "reddit_slaythespire",
       "title": "reddit_slaythespire fetch error",
       "url": "https://www.reddit.com/r/slaythespire/new/.rss",
       "publishedAt": null,
-      "observedAt": "2026-03-26T18:00:02.584653+00:00",
+      "observedAt": "2026-03-26T22:00:03.509026+00:00",
       "summary": "Scrape error: HTTP Error 403: Blocked",
       "error": true
     },
@@ -61,7 +21,7 @@
       "title": "reddit_search fetch error",
       "url": "https://www.reddit.com/search.rss?q=slay%20the%20spire%202&sort=new",
       "publishedAt": null,
-      "observedAt": "2026-03-26T18:00:02.673739+00:00",
+      "observedAt": "2026-03-26T22:00:03.601537+00:00",
       "summary": "Scrape error: HTTP Error 403: Blocked",
       "error": true
     },
@@ -70,7 +30,7 @@
       "title": "Release Date Trailer",
       "url": "https://www.megacrit.com/news/2026-02-19-release-date-trailer/",
       "publishedAt": null,
-      "observedAt": "2026-03-26T18:00:03.175026+00:00",
+      "observedAt": "2026-03-26T22:00:04.148892+00:00",
       "summary": "Official Mega Crit news page item."
     },
     {
@@ -78,7 +38,7 @@
       "title": "Just Announced Slay The Spire 2 Copy",
       "url": "https://www.megacrit.com/news/2024-04-15-just-announced-slay-the-spire-2-copy/",
       "publishedAt": null,
-      "observedAt": "2026-03-26T18:00:03.175391+00:00",
+      "observedAt": "2026-03-26T22:00:04.149029+00:00",
       "summary": "Official Mega Crit news page item."
     },
     {
@@ -86,7 +46,7 @@
       "title": "Youtooz X Slay The Spire Limited Edition Figures Out Now",
       "url": "https://www.megacrit.com/news/2024-03-12-youtooz-x-slay-the-spire-limited-edition-figures-out-now/",
       "publishedAt": null,
-      "observedAt": "2026-03-26T18:00:03.175424+00:00",
+      "observedAt": "2026-03-26T22:00:04.149042+00:00",
       "summary": "Official Mega Crit news page item."
     }
   ],
@@ -98,19 +58,8 @@
         "title": "Release Date Trailer",
         "url": "https://www.megacrit.com/news/2026-02-19-release-date-trailer/",
         "publishedAt": null,
-        "observedAt": "2026-03-26T18:00:03.175026+00:00",
+        "observedAt": "2026-03-26T22:00:04.148892+00:00",
         "summary": "Official Mega Crit news page item."
-      }
-    },
-    {
-      "kind": "steam_news",
-      "item": {
-        "source": "steam_news",
-        "title": "Slay the Spire: The Board Game - Downfall Expansion Kickstarter Now Live!",
-        "url": "https://store.steampowered.com/news/app/2868840/view/503978984819656657",
-        "publishedAt": "Tue, 24 Mar 2026 17:33:57 +0000",
-        "observedAt": "2026-03-26T18:00:02.490434+00:00",
-        "summary": "It's finally here!! The Kickstarter campaign for the Slay the Spire board game Downfall expansion is LIVE NOW! The fan-favorite community mod for Slay the Spire 1 is getting its own OFFICIAL expansion to Slay the Spire: The Board Game , all"
       }
     }
   ]
