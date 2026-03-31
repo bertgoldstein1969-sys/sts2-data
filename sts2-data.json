@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-30T22:00:02.850560+00:00",
+  "generatedAt": "2026-03-31T02:00:09.702371+00:00",
   "sources": [
     "https://store.steampowered.com/feeds/news/app/2868840/",
     "https://www.megacrit.com/news",
@@ -9,77 +9,59 @@
   "items": [
     {
       "source": "steam_news",
-      "title": "Slay the Spire: The Board Game — Downfall Expansion Kickstarter Live",
+      "title": "Slay the Spire: The Board Game - Downfall Expansion Kickstarter Now Live!",
       "url": "https://store.steampowered.com/news/app/2868840/view/503978984819656657",
       "publishedAt": "Tue, 24 Mar 2026 17:33:57 +0000",
-      "observedAt": "2026-03-30T22:00:02.127951+00:00",
-      "summary": "The Kickstarter for Downfall, an official expansion to Slay the Spire: The Board Game based on a community mod, is now live."
+      "observedAt": "2026-03-31T02:00:05.014731+00:00",
+      "summary": "It's finally here!! The Kickstarter campaign for the Slay the Spire board game Downfall expansion is LIVE NOW! The fan-favorite community mod for Slay the Spire 1 is getting its own OFFICIAL expansion to Slay the Spire: The Board Game , all"
     },
     {
       "source": "steam_news",
-      "title": "The Neowsletter — March 2026",
+      "title": "The Neowsletter - March 2026",
       "url": "https://store.steampowered.com/news/app/2868840/view/502852451136700526",
       "publishedAt": "Fri, 13 Mar 2026 21:49:33 +0000",
-      "observedAt": "2026-03-30T22:00:02.131825+00:00",
-      "summary": "Mega Crit's March Neowsletter thanks the community for launch feedback and highlights the team's early reactions."
+      "observedAt": "2026-03-31T02:00:05.018505+00:00",
+      "summary": "Hi everyone, Casey here! Our excellent community manager, Demi, has been in charge of the majority of Neowsletter writings for a while now but I wanted to stop by to say a few words: 🐟HOLY MACKEREL🐟! But in all seriousness, the response to "
     },
     {
       "source": "steam_news",
-      "title": "Patch Notes — Beta v0.99",
+      "title": "Beta Patch Notes - v0.99",
       "url": "https://store.steampowered.com/news/app/2868840/view/502852451136700758",
       "publishedAt": "Fri, 13 Mar 2026 00:42:32 +0000",
-      "observedAt": "2026-03-30T22:00:02.132628+00:00",
-      "summary": "Patch v0.99 delivers bug fixes, art updates, and a new max-HP cap; initially rolling out to select platforms."
+      "observedAt": "2026-03-31T02:00:05.019278+00:00",
+      "summary": "Hey, Slayers! Happy 1-week-since-launch day! Today's patch mostly contains a lot of bug fixes, but it also contains a few art additions and a new limit to max HP values. Heads up that this patch will at first be exclusive to the newly relea"
     },
     {
       "source": "steam_news",
-      "title": "Hotfix Patch Notes — v0.98.1",
+      "title": "Hotfix Patch Notes - v0.98.1",
       "url": "https://store.steampowered.com/news/app/2868840/view/519740319207522938",
       "publishedAt": "Fri, 06 Mar 2026 00:56:25 +0000",
-      "observedAt": "2026-03-30T22:00:02.132928+00:00",
-      "summary": "Day-one hotfix fixes reported issues and softlocks; players are encouraged to submit in-game feedback."
-    },
-    {
-      "source": "reddit_slaythespire",
-      "title": "r/slaythespire — fetch error",
-      "url": "https://www.reddit.com/r/slaythespire/new/.rss",
-      "publishedAt": null,
-      "observedAt": "2026-03-30T22:00:02.218830+00:00",
-      "summary": "Scrape error: Reddit blocked access to the r/slaythespire feed (HTTP 403).",
-      "error": true
-    },
-    {
-      "source": "reddit_search",
-      "title": "Reddit search — fetch error",
-      "url": "https://www.reddit.com/search.rss?q=slay%20the%20spire%202&sort=new",
-      "publishedAt": null,
-      "observedAt": "2026-03-30T22:00:02.298031+00:00",
-      "summary": "Scrape error: Reddit blocked access to the search RSS (HTTP 403).",
-      "error": true
+      "observedAt": "2026-03-31T02:00:05.019571+00:00",
+      "summary": "Happy Slay the Spire 2 launch day everyone! We have a day 1 hotfix for various issues and softlocks that players have reported. Thank you all for your feedback! For those who don't know, you can submit feedback in-game by pressing F2 or thr"
     },
     {
       "source": "megacrit_news",
       "title": "Release Date Trailer",
       "url": "https://www.megacrit.com/news/2026-02-19-release-date-trailer/",
       "publishedAt": null,
-      "observedAt": "2026-03-30T22:00:02.847733+00:00",
-      "summary": "Mega Crit published the official release-date trailer for Slay the Spire 2."
+      "observedAt": "2026-03-31T02:00:09.699548+00:00",
+      "summary": "Official Mega Crit news page item."
     },
     {
       "source": "megacrit_news",
-      "title": "Just Announced — Slay the Spire 2",
+      "title": "Just Announced Slay The Spire 2 Copy",
       "url": "https://www.megacrit.com/news/2024-04-15-just-announced-slay-the-spire-2-copy/",
       "publishedAt": null,
-      "observedAt": "2026-03-30T22:00:02.848097+00:00",
-      "summary": "Mega Crit's original announcement post for Slay the Spire 2."
+      "observedAt": "2026-03-31T02:00:09.699916+00:00",
+      "summary": "Official Mega Crit news page item."
     },
     {
       "source": "megacrit_news",
-      "title": "Youtooz x Slay the Spire — Limited Figures",
+      "title": "Youtooz X Slay The Spire Limited Edition Figures Out Now",
       "url": "https://www.megacrit.com/news/2024-03-12-youtooz-x-slay-the-spire-limited-edition-figures-out-now/",
       "publishedAt": null,
-      "observedAt": "2026-03-30T22:00:02.848132+00:00",
-      "summary": "Mega Crit posted about the Youtooz limited-edition Slay the Spire figures release."
+      "observedAt": "2026-03-31T02:00:09.699950+00:00",
+      "summary": "Official Mega Crit news page item."
     }
   ],
   "highlights": [
@@ -90,8 +72,19 @@
         "title": "Release Date Trailer",
         "url": "https://www.megacrit.com/news/2026-02-19-release-date-trailer/",
         "publishedAt": null,
-        "observedAt": "2026-03-30T22:00:02.847733+00:00",
-        "summary": "Mega Crit published the official release-date trailer for Slay the Spire 2."
+        "observedAt": "2026-03-31T02:00:09.699548+00:00",
+        "summary": "Official Mega Crit news page item."
+      }
+    },
+    {
+      "kind": "steam_news",
+      "item": {
+        "source": "steam_news",
+        "title": "Slay the Spire: The Board Game - Downfall Expansion Kickstarter Now Live!",
+        "url": "https://store.steampowered.com/news/app/2868840/view/503978984819656657",
+        "publishedAt": "Tue, 24 Mar 2026 17:33:57 +0000",
+        "observedAt": "2026-03-31T02:00:05.014731+00:00",
+        "summary": "It's finally here!! The Kickstarter campaign for the Slay the Spire board game Downfall expansion is LIVE NOW! The fan-favorite community mod for Slay the Spire 1 is getting its own OFFICIAL expansion to Slay the Spire: The Board Game , all"
       }
     }
   ]
