@@ -9,11 +9,11 @@
   "items": [
     {
       "source": "megacrit_news",
-      "title": "megacrit fetch error",
+      "title": "Mega Crit — fetch error",
       "url": "https://www.megacrit.com/news",
       "publishedAt": null,
       "observedAt": "2026-04-07T22:00:34.315164+00:00",
-      "summary": "Scrape error: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "summary": "Scrape error: urlopen error (Errno 8) — 'nodename nor servname provided, or not known'.",
       "error": true
     }
   ],
