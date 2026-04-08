@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T22:00:34.315251+00:00",
+  "generatedAt": "2026-04-08T02:00:02.556400+00:00",
   "sources": [
     "https://store.steampowered.com/feeds/news/app/2868840/",
     "https://www.megacrit.com/news",
@@ -8,14 +8,76 @@
   ],
   "items": [
     {
+      "source": "steam_news",
+      "title": "Slay the Spire: The Board Game - Downfall Expansion Kickstarter Now Live!",
+      "url": "https://store.steampowered.com/news/app/2868840/view/503978984819656657",
+      "publishedAt": "Tue, 24 Mar 2026 17:33:57 +0000",
+      "observedAt": "2026-04-08T02:00:00.679215+00:00",
+      "summary": "It's finally here!! The Kickstarter campaign for the Slay the Spire board game Downfall expansion is LIVE NOW! The fan-favorite community mod for Slay the Spire 1 is getting its own OFFICIAL expansion to Slay the Spire: The Board Game , all"
+    },
+    {
+      "source": "steam_news",
+      "title": "The Neowsletter - March 2026",
+      "url": "https://store.steampowered.com/news/app/2868840/view/502852451136700526",
+      "publishedAt": "Fri, 13 Mar 2026 21:49:33 +0000",
+      "observedAt": "2026-04-08T02:00:00.683022+00:00",
+      "summary": "Hi everyone, Casey here! Our excellent community manager, Demi, has been in charge of the majority of Neowsletter writings for a while now but I wanted to stop by to say a few words: 🐟HOLY MACKEREL🐟! But in all seriousness, the response to "
+    },
+    {
+      "source": "steam_news",
+      "title": "Beta Patch Notes - v0.99",
+      "url": "https://store.steampowered.com/news/app/2868840/view/502852451136700758",
+      "publishedAt": "Fri, 13 Mar 2026 00:42:32 +0000",
+      "observedAt": "2026-04-08T02:00:00.683801+00:00",
+      "summary": "Hey, Slayers! Happy 1-week-since-launch day! Today's patch mostly contains a lot of bug fixes, but it also contains a few art additions and a new limit to max HP values. Heads up that this patch will at first be exclusive to the newly relea"
+    },
+    {
       "source": "megacrit_news",
-      "title": "Mega Crit — fetch error",
-      "url": "https://www.megacrit.com/news",
+      "title": "Release Date Trailer",
+      "url": "https://www.megacrit.com/news/2026-02-19-release-date-trailer/",
       "publishedAt": null,
-      "observedAt": "2026-04-07T22:00:34.315164+00:00",
-      "summary": "Scrape error: urlopen error (Errno 8) — 'nodename nor servname provided, or not known'.",
-      "error": true
+      "observedAt": "2026-04-08T02:00:02.553595+00:00",
+      "summary": "Official Mega Crit news page item."
+    },
+    {
+      "source": "megacrit_news",
+      "title": "Just Announced Slay The Spire 2 Copy",
+      "url": "https://www.megacrit.com/news/2024-04-15-just-announced-slay-the-spire-2-copy/",
+      "publishedAt": null,
+      "observedAt": "2026-04-08T02:00:02.553954+00:00",
+      "summary": "Official Mega Crit news page item."
+    },
+    {
+      "source": "megacrit_news",
+      "title": "Youtooz X Slay The Spire Limited Edition Figures Out Now",
+      "url": "https://www.megacrit.com/news/2024-03-12-youtooz-x-slay-the-spire-limited-edition-figures-out-now/",
+      "publishedAt": null,
+      "observedAt": "2026-04-08T02:00:02.553989+00:00",
+      "summary": "Official Mega Crit news page item."
     }
   ],
-  "highlights": []
+  "highlights": [
+    {
+      "kind": "megacrit_news",
+      "item": {
+        "source": "megacrit_news",
+        "title": "Release Date Trailer",
+        "url": "https://www.megacrit.com/news/2026-02-19-release-date-trailer/",
+        "publishedAt": null,
+        "observedAt": "2026-04-08T02:00:02.553595+00:00",
+        "summary": "Official Mega Crit news page item."
+      }
+    },
+    {
+      "kind": "steam_news",
+      "item": {
+        "source": "steam_news",
+        "title": "Slay the Spire: The Board Game - Downfall Expansion Kickstarter Now Live!",
+        "url": "https://store.steampowered.com/news/app/2868840/view/503978984819656657",
+        "publishedAt": "Tue, 24 Mar 2026 17:33:57 +0000",
+        "observedAt": "2026-04-08T02:00:00.679215+00:00",
+        "summary": "It's finally here!! The Kickstarter campaign for the Slay the Spire board game Downfall expansion is LIVE NOW! The fan-favorite community mod for Slay the Spire 1 is getting its own OFFICIAL expansion to Slay the Spire: The Board Game , all"
+      }
+    }
+  ]
 }
